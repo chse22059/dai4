@@ -2,8 +2,8 @@ import Image from "./Image";
 
 export default function Gallery() {
   return (
-    <section>
+    <div clsssName="section">
         <Image />
-        </section>
+        </div>
   );
 }
