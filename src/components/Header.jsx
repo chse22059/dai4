@@ -3,7 +3,7 @@ export default function Header() {
         <header>
             <h1>Birdwatching</h1>
             <div className="header img">
-                <img src="dove.png" alt="a simple dove logo"></img>
+                <img src="https://github.com/chse22059/dai4/blob/main/dove.png?raw=true" alt="a simple dove logo"></img>
             </div>
             <nav>
                 <ul>
